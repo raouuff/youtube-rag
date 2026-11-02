@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-google-genai
+langchain-pinecone
+langchain-text-splitters
+docarray
+python-dotenv
+pinecone-client
+scikit-learn
+youtube-transcript-api
+ruff
